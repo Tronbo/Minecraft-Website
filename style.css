@@ -1,0 +1,10 @@
+@font-face{
+    src:url(fonts/Minecrafter.Reg.ttf);
+    font-family:Minecrafter;    
+}
+
+h1{
+    font-family: Minecrafter;
+    position:absolute;
+    
+}
